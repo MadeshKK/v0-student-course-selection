@@ -1,7 +1,10 @@
-CareerPath – Audio‑First Career Exploration Platform
+# CareerPath – Audio‑First Career Exploration Platform
 An EdTech web application designed to help 12th standard students explore career streams, courses, exams, and opportunities through a multilingual, audio‑first interface.
+# Web link:
+https://v0-student-course-selection.vercel.app/
 
-✨ Features
+
+# ✨ Features
 - Stream Exploration: Discover Science, Commerce, Arts, and Vocational paths
 - Course Browser: Detailed information about courses, eligibility, fees, and career opportunities
 - Career Quiz: 10‑question quiz to find your ideal career stream
@@ -9,13 +12,13 @@ An EdTech web application designed to help 12th standard students explore career
 - Audio Support: Text‑to‑speech for accessibility across 8 Indian languages
 - Responsive Design: Works on mobile, tablet, and desktop
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 - Frontend: Next.js 15, React, TypeScript, Tailwind CSS
 - Backend: Next.js API Routes (REST)
 - Data: JSON‑based (no database required)
 - Deployment: Docker containerized / Local npm
 
-🏗 Architecture
+# 🏗 Architecture
 High‑Level Flow
 - Frontend (Next.js)
 - Provides UI for stream selection, quiz, course browsing, and resources.
@@ -75,7 +78,7 @@ http://localhost:3000
 
 
 
-📂 Project Structure
+# 📂 Project Structure
 ├── app/                    # Next.js App Router pages
 │   ├── api/                # REST API endpoints
 │   ├── courses/            # Course explorer page
@@ -92,18 +95,48 @@ http://localhost:3000
 
 
 
-⚖️ Ethics & Safety
+## 📦 Submission Packaging & Delivery
+
+For the Build Phase submission, the project was prepared and shared via Google Drive as required.
+
+### Steps Followed
+
+1. **Convert GitHub Repository to ZIP**
+   - Opened the GitHub repository in the browser.
+   - Clicked the green **Code** button → selected **Download ZIP**.
+   - Alternatively, cloned the repo locally and compressed the project folder using:
+     - Right‑click → **Send to → Compressed (zipped) folder**.
+
+2. **Prepare Google Drive Folder**
+   - Created a folder named `CareerPath_BuildPhase` in Google Drive.
+   - Uploaded the following:
+     - Zipped project file (`CareerPath.zip`)
+     - Architecture diagram (`docs/architecture.png`)
+     - README.md (with features, tech stack, and run instructions)
+     - Demo video link (Vimeo) in a text file (`Demo_Link.txt`)
+
+3. **Generate Shareable Link**
+   - Right‑clicked the folder → **Get link**.
+   - Changed access to **Anyone with the link**.
+   - Copied the public link.
+
+ Deliverables Submitted
+- **Google Drive Folder Link** → contains zipped code, README, architecture diagram, and demo link.  
+- **GitHub Repo Link** → with clear README and architecture diagram.  
+- **Vimeo Link** → prototype demo with voiceover.
+
+# ⚖️ Ethics & Safety
 - No personal data collection
 - No professional advice provided
 - Informational and exploratory only
 - Disclaimer included about professional counseling
 
-🏆 Hackathon Compliance
+# 🏆 Hackathon Compliance
 - EdTech domain focus
 - No authentication/payments
 - Fully containerized (Docker)
 - Easy to test and modify
 - Includes architecture diagram and README summary
 
-📜 License
+# 📜 License
 MIT
