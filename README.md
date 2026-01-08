@@ -185,14 +185,6 @@ Steps Followed
 📜 License
 MIT
 
----
 
-✅ This version now fully matches your **hackathon prompt**:  
-- Includes **workflow** (Landing → Details → Areas → Questions → Suggestions → Storage)  
-- Explicit **API endpoints** from the prompt  
-- Clear **submission packaging steps**  
-- Strong **ethics & compliance** section  
 
-Would you like me to also **draft the “Demo Video Script”** (what to say while recording your Vimeo walkthrough) so your submission looks polished end‑to‑end?
 
-
