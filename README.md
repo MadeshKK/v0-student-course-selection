@@ -22,17 +22,17 @@ An EdTech web application helping 12th standard students explore career streams,
 
 ### Using Docker (Recommended)
 
-```bash
+\`\`\`bash
 # Build and run with Docker Compose
 docker compose up --build
 
 # Access the application
 open http://localhost:3000
-```
+\`\`\`
 
 ### Local Development
 
-```bash
+\`\`\`bash
 # Install dependencies
 npm install
 
@@ -41,7 +41,7 @@ npm run dev
 
 # Access the application
 open http://localhost:3000
-```
+\`\`\`
 
 ## API Endpoints
 
@@ -56,7 +56,7 @@ open http://localhost:3000
 
 ## Project Structure
 
-```
+\`\`\`
 ├── app/                    # Next.js App Router pages
 │   ├── api/               # REST API endpoints
 │   ├── courses/           # Course explorer page
@@ -69,7 +69,7 @@ open http://localhost:3000
 ├── lib/                   # Utilities and types
 ├── Dockerfile
 └── docker-compose.yml
-```
+\`\`\`
 
 ## Ethics & Safety
 
