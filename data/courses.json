@@ -1,0 +1,252 @@
+{
+  "streams": [
+    {
+      "id": "science",
+      "name": "Science",
+      "description": "Explore careers in medicine, engineering, research, and technology",
+      "icon": "flask",
+      "courses": [
+        {
+          "id": "btech-cs",
+          "name": "B.Tech Computer Science",
+          "duration": "4 years",
+          "description": "Learn programming, software development, artificial intelligence, and data science. Build apps, websites, and cutting-edge technology solutions.",
+          "careers": ["Software Engineer", "Data Scientist", "AI Specialist", "Web Developer"],
+          "eligibility": "12th Science with Physics, Chemistry, Mathematics",
+          "avgFees": "₹1-4 Lakhs per year"
+        },
+        {
+          "id": "btech-civil",
+          "name": "B.Tech Civil Engineering",
+          "duration": "4 years",
+          "description": "Design and construct buildings, bridges, roads, and infrastructure. Shape the physical world around us.",
+          "careers": ["Civil Engineer", "Structural Engineer", "Urban Planner", "Construction Manager"],
+          "eligibility": "12th Science with Physics, Chemistry, Mathematics",
+          "avgFees": "₹1-3 Lakhs per year"
+        },
+        {
+          "id": "btech-electronics",
+          "name": "B.Tech Electronics & Communication",
+          "duration": "4 years",
+          "description": "Work with electronic devices, communication systems, and embedded technology. From smartphones to satellites.",
+          "careers": ["Electronics Engineer", "Telecom Specialist", "Embedded Systems Developer"],
+          "eligibility": "12th Science with Physics, Chemistry, Mathematics",
+          "avgFees": "₹1-4 Lakhs per year"
+        },
+        {
+          "id": "mbbs",
+          "name": "MBBS (Bachelor of Medicine)",
+          "duration": "5.5 years",
+          "description": "Become a medical doctor. Diagnose illnesses, treat patients, and save lives. The most respected healthcare profession.",
+          "careers": ["Doctor", "Surgeon", "Specialist Physician", "Medical Researcher"],
+          "eligibility": "12th Science with Physics, Chemistry, Biology",
+          "avgFees": "₹5-25 Lakhs per year"
+        },
+        {
+          "id": "bds",
+          "name": "BDS (Bachelor of Dental Surgery)",
+          "duration": "5 years",
+          "description": "Specialize in dental health, oral surgery, and cosmetic dentistry. Help people maintain healthy smiles.",
+          "careers": ["Dentist", "Oral Surgeon", "Orthodontist", "Dental Researcher"],
+          "eligibility": "12th Science with Physics, Chemistry, Biology",
+          "avgFees": "₹3-15 Lakhs per year"
+        },
+        {
+          "id": "bpharm",
+          "name": "B.Pharm (Bachelor of Pharmacy)",
+          "duration": "4 years",
+          "description": "Study medicines, drug development, and pharmaceutical sciences. Contribute to healthcare through medication.",
+          "careers": ["Pharmacist", "Drug Inspector", "Pharmaceutical Researcher", "Clinical Research Associate"],
+          "eligibility": "12th Science with Physics, Chemistry, Biology/Mathematics",
+          "avgFees": "₹50K-3 Lakhs per year"
+        },
+        {
+          "id": "bsc-nursing",
+          "name": "B.Sc Nursing",
+          "duration": "4 years",
+          "description": "Provide patient care, assist doctors, and make a difference in healthcare. A noble and rewarding profession.",
+          "careers": ["Registered Nurse", "Nurse Practitioner", "Healthcare Administrator"],
+          "eligibility": "12th Science with Physics, Chemistry, Biology",
+          "avgFees": "₹30K-2 Lakhs per year"
+        },
+        {
+          "id": "bsc-physics",
+          "name": "B.Sc Physics",
+          "duration": "3 years",
+          "description": "Understand the fundamental laws of the universe. Study mechanics, quantum physics, and relativity.",
+          "careers": ["Research Scientist", "Lab Technician", "Science Teacher", "Data Analyst"],
+          "eligibility": "12th Science with Physics, Mathematics",
+          "avgFees": "₹20K-1 Lakh per year"
+        }
+      ]
+    },
+    {
+      "id": "commerce",
+      "name": "Commerce",
+      "description": "Explore careers in business, finance, accounting, and management",
+      "icon": "briefcase",
+      "courses": [
+        {
+          "id": "bcom",
+          "name": "B.Com (Bachelor of Commerce)",
+          "duration": "3 years",
+          "description": "Foundation in accounting, taxation, and business. Opens doors to finance and business careers.",
+          "careers": ["Accountant", "Tax Consultant", "Financial Analyst", "Bank Officer"],
+          "eligibility": "12th Commerce or Science",
+          "avgFees": "₹20K-1 Lakh per year"
+        },
+        {
+          "id": "bba",
+          "name": "BBA (Bachelor of Business Administration)",
+          "duration": "3 years",
+          "description": "Learn management, marketing, and business strategy. Prepare for leadership roles in companies.",
+          "careers": ["Manager", "Marketing Executive", "HR Professional", "Entrepreneur"],
+          "eligibility": "12th in any stream",
+          "avgFees": "₹50K-3 Lakhs per year"
+        },
+        {
+          "id": "ca",
+          "name": "Chartered Accountancy (CA)",
+          "duration": "3-5 years",
+          "description": "Become a financial expert. Handle auditing, taxation, and financial planning for businesses.",
+          "careers": ["Chartered Accountant", "Auditor", "CFO", "Tax Advisor"],
+          "eligibility": "12th Commerce or Science (after graduation)",
+          "avgFees": "₹1-2 Lakhs total"
+        },
+        {
+          "id": "bba-finance",
+          "name": "BBA in Finance",
+          "duration": "3 years",
+          "description": "Specialize in investment, banking, and financial markets. Learn to manage money and investments.",
+          "careers": ["Investment Banker", "Financial Planner", "Stock Analyst", "Portfolio Manager"],
+          "eligibility": "12th in any stream",
+          "avgFees": "₹1-4 Lakhs per year"
+        },
+        {
+          "id": "economics",
+          "name": "B.A/B.Sc Economics",
+          "duration": "3 years",
+          "description": "Study markets, policies, and economic systems. Understand how money and resources flow in society.",
+          "careers": ["Economist", "Policy Analyst", "Research Associate", "Data Analyst"],
+          "eligibility": "12th in any stream",
+          "avgFees": "₹20K-2 Lakhs per year"
+        }
+      ]
+    },
+    {
+      "id": "arts",
+      "name": "Arts & Humanities",
+      "description": "Explore careers in law, media, design, psychology, and social sciences",
+      "icon": "palette",
+      "courses": [
+        {
+          "id": "ba-psychology",
+          "name": "B.A Psychology",
+          "duration": "3 years",
+          "description": "Understand human behavior, emotions, and mental health. Help people overcome challenges.",
+          "careers": ["Counselor", "Clinical Psychologist", "HR Professional", "Researcher"],
+          "eligibility": "12th in any stream",
+          "avgFees": "₹20K-1.5 Lakhs per year"
+        },
+        {
+          "id": "llb",
+          "name": "LLB / BA LLB (Law)",
+          "duration": "3-5 years",
+          "description": "Study law, justice, and legal systems. Argue cases and protect people's rights.",
+          "careers": ["Lawyer", "Judge", "Legal Advisor", "Corporate Counsel"],
+          "eligibility": "12th in any stream / Graduation",
+          "avgFees": "₹50K-5 Lakhs per year"
+        },
+        {
+          "id": "bjmc",
+          "name": "BJMC (Journalism & Mass Communication)",
+          "duration": "3 years",
+          "description": "Learn reporting, media production, and digital communication. Tell stories that matter.",
+          "careers": ["Journalist", "News Anchor", "Content Creator", "Public Relations Officer"],
+          "eligibility": "12th in any stream",
+          "avgFees": "₹50K-3 Lakhs per year"
+        },
+        {
+          "id": "bdes",
+          "name": "B.Des (Bachelor of Design)",
+          "duration": "4 years",
+          "description": "Create visual designs, user interfaces, and brand identities. Combine creativity with technology.",
+          "careers": ["UI/UX Designer", "Graphic Designer", "Product Designer", "Art Director"],
+          "eligibility": "12th in any stream + Design aptitude test",
+          "avgFees": "₹2-6 Lakhs per year"
+        },
+        {
+          "id": "bfa",
+          "name": "BFA (Bachelor of Fine Arts)",
+          "duration": "4 years",
+          "description": "Express yourself through painting, sculpture, and visual arts. Become a professional artist.",
+          "careers": ["Artist", "Art Teacher", "Animator", "Art Curator"],
+          "eligibility": "12th in any stream",
+          "avgFees": "₹20K-2 Lakhs per year"
+        },
+        {
+          "id": "ba-english",
+          "name": "B.A English Literature",
+          "duration": "3 years",
+          "description": "Study great works of literature, language, and creative writing. Develop strong communication skills.",
+          "careers": ["Writer", "Editor", "Teacher", "Content Strategist"],
+          "eligibility": "12th in any stream",
+          "avgFees": "₹15K-1 Lakh per year"
+        }
+      ]
+    },
+    {
+      "id": "vocational",
+      "name": "Vocational & Skill-Based",
+      "description": "Practical courses for quick employment in specialized fields",
+      "icon": "wrench",
+      "courses": [
+        {
+          "id": "hotel-mgmt",
+          "name": "Hotel Management",
+          "duration": "3-4 years",
+          "description": "Learn hospitality, food service, and hotel operations. Work in top hotels and resorts worldwide.",
+          "careers": ["Hotel Manager", "Chef", "Event Planner", "Travel Consultant"],
+          "eligibility": "12th in any stream",
+          "avgFees": "₹1-4 Lakhs per year"
+        },
+        {
+          "id": "animation",
+          "name": "B.Sc Animation & VFX",
+          "duration": "3 years",
+          "description": "Create animated films, visual effects, and digital content. Work in movies and gaming.",
+          "careers": ["Animator", "VFX Artist", "Game Designer", "Motion Graphics Artist"],
+          "eligibility": "12th in any stream",
+          "avgFees": "₹1-3 Lakhs per year"
+        },
+        {
+          "id": "fashion",
+          "name": "Fashion Design",
+          "duration": "3-4 years",
+          "description": "Design clothing, accessories, and fashion products. Shape trends and styles.",
+          "careers": ["Fashion Designer", "Stylist", "Merchandiser", "Fashion Photographer"],
+          "eligibility": "12th in any stream + Design test",
+          "avgFees": "₹1-5 Lakhs per year"
+        },
+        {
+          "id": "aviation",
+          "name": "Aviation & Cabin Crew Training",
+          "duration": "1-2 years",
+          "description": "Work as cabin crew, ground staff, or in aviation management. Travel the world.",
+          "careers": ["Flight Attendant", "Ground Staff", "Airport Manager", "Aviation Security"],
+          "eligibility": "12th in any stream",
+          "avgFees": "₹50K-3 Lakhs total"
+        },
+        {
+          "id": "iti",
+          "name": "ITI (Industrial Training)",
+          "duration": "1-2 years",
+          "description": "Learn practical skills in electrical, mechanical, or technical trades. Quick employment.",
+          "careers": ["Technician", "Electrician", "Fitter", "Welder"],
+          "eligibility": "10th or 12th pass",
+          "avgFees": "₹5K-50K per year"
+        }
+      ]
+    }
+  ]
+}

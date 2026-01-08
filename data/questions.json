@@ -1,0 +1,196 @@
+{
+  "questions": {
+    "science": [
+      {
+        "id": "sci1",
+        "question": "Do you enjoy solving mathematical problems and puzzles?",
+        "voiceText": "Do you enjoy solving mathematical problems and puzzles?",
+        "options": ["Yes, I love it", "Sometimes", "Not really", "No"]
+      },
+      {
+        "id": "sci2",
+        "question": "Are you more interested in building things or understanding how living things work?",
+        "voiceText": "Are you more interested in building things or understanding how living things work?",
+        "options": ["Building things", "Living things", "Both equally", "Neither"]
+      },
+      {
+        "id": "sci3",
+        "question": "Do you prefer working with computers and technology?",
+        "voiceText": "Do you prefer working with computers and technology?",
+        "options": ["Yes, definitely", "Somewhat", "Not much", "No"]
+      },
+      {
+        "id": "sci4",
+        "question": "Would you like to work in laboratories or research settings?",
+        "voiceText": "Would you like to work in laboratories or research settings?",
+        "options": ["Yes", "Maybe", "Prefer fieldwork", "No"]
+      },
+      {
+        "id": "sci5",
+        "question": "Are you interested in helping people with health-related issues?",
+        "voiceText": "Are you interested in helping people with health-related issues?",
+        "options": ["Very interested", "Somewhat", "Not particularly", "No"]
+      }
+    ],
+    "business": [
+      {
+        "id": "bus1",
+        "question": "Do you enjoy working with numbers and analyzing data?",
+        "voiceText": "Do you enjoy working with numbers and analyzing data?",
+        "options": ["Yes, I love it", "Sometimes", "Not really", "No"]
+      },
+      {
+        "id": "bus2",
+        "question": "Are you interested in starting your own business someday?",
+        "voiceText": "Are you interested in starting your own business someday?",
+        "options": ["Definitely", "Maybe", "Prefer a job", "No"]
+      },
+      {
+        "id": "bus3",
+        "question": "Do you like leading teams and making decisions?",
+        "voiceText": "Do you like leading teams and making decisions?",
+        "options": ["Yes", "Sometimes", "Prefer following", "No"]
+      },
+      {
+        "id": "bus4",
+        "question": "Are you interested in stock markets and investments?",
+        "voiceText": "Are you interested in stock markets and investments?",
+        "options": ["Very interested", "Somewhat", "Not much", "No"]
+      },
+      {
+        "id": "bus5",
+        "question": "Would you enjoy negotiating deals and selling products or ideas?",
+        "voiceText": "Would you enjoy negotiating deals and selling products or ideas?",
+        "options": ["Yes", "Maybe", "Not sure", "No"]
+      }
+    ],
+    "arts": [
+      {
+        "id": "art1",
+        "question": "Do you enjoy reading books, stories, or poetry?",
+        "voiceText": "Do you enjoy reading books, stories, or poetry?",
+        "options": ["Love it", "Sometimes", "Rarely", "No"]
+      },
+      {
+        "id": "art2",
+        "question": "Are you interested in learning about different cultures and history?",
+        "voiceText": "Are you interested in learning about different cultures and history?",
+        "options": ["Very interested", "Somewhat", "Not much", "No"]
+      },
+      {
+        "id": "art3",
+        "question": "Do you enjoy writing essays, stories, or articles?",
+        "voiceText": "Do you enjoy writing essays, stories, or articles?",
+        "options": ["Yes", "Sometimes", "Rarely", "No"]
+      },
+      {
+        "id": "art4",
+        "question": "Would you like to work in education or teaching?",
+        "voiceText": "Would you like to work in education or teaching?",
+        "options": ["Yes", "Maybe", "Not sure", "No"]
+      },
+      {
+        "id": "art5",
+        "question": "Are you interested in learning multiple languages?",
+        "voiceText": "Are you interested in learning multiple languages?",
+        "options": ["Very interested", "Somewhat", "One is enough", "No"]
+      }
+    ],
+    "design": [
+      {
+        "id": "des1",
+        "question": "Do you enjoy drawing, painting, or creating visual art?",
+        "voiceText": "Do you enjoy drawing, painting, or creating visual art?",
+        "options": ["Love it", "Sometimes", "Rarely", "No"]
+      },
+      {
+        "id": "des2",
+        "question": "Are you interested in photography or videography?",
+        "voiceText": "Are you interested in photography or videography?",
+        "options": ["Very interested", "Somewhat", "Not much", "No"]
+      },
+      {
+        "id": "des3",
+        "question": "Would you like to create animations or digital content?",
+        "voiceText": "Would you like to create animations or digital content?",
+        "options": ["Yes", "Maybe", "Not sure", "No"]
+      },
+      {
+        "id": "des4",
+        "question": "Do you enjoy following trends in fashion, design, or social media?",
+        "voiceText": "Do you enjoy following trends in fashion, design, or social media?",
+        "options": ["Yes", "Sometimes", "Rarely", "No"]
+      },
+      {
+        "id": "des5",
+        "question": "Are you interested in telling stories through visual media?",
+        "voiceText": "Are you interested in telling stories through visual media?",
+        "options": ["Very interested", "Somewhat", "Not much", "No"]
+      }
+    ],
+    "law": [
+      {
+        "id": "law1",
+        "question": "Are you interested in current affairs and politics?",
+        "voiceText": "Are you interested in current affairs and politics?",
+        "options": ["Very interested", "Somewhat", "Not much", "No"]
+      },
+      {
+        "id": "law2",
+        "question": "Do you enjoy debating and presenting arguments?",
+        "voiceText": "Do you enjoy debating and presenting arguments?",
+        "options": ["Love it", "Sometimes", "Rarely", "No"]
+      },
+      {
+        "id": "law3",
+        "question": "Would you like to work for government or public service?",
+        "voiceText": "Would you like to work for government or public service?",
+        "options": ["Yes", "Maybe", "Prefer private sector", "No"]
+      },
+      {
+        "id": "law4",
+        "question": "Are you interested in understanding rules, laws, and rights?",
+        "voiceText": "Are you interested in understanding rules, laws, and rights?",
+        "options": ["Very interested", "Somewhat", "Not much", "No"]
+      },
+      {
+        "id": "law5",
+        "question": "Do you want to help people solve their legal or social problems?",
+        "voiceText": "Do you want to help people solve their legal or social problems?",
+        "options": ["Yes", "Maybe", "Not sure", "No"]
+      }
+    ],
+    "vocational": [
+      {
+        "id": "voc1",
+        "question": "Do you prefer hands-on practical work over theoretical studies?",
+        "voiceText": "Do you prefer hands-on practical work over theoretical studies?",
+        "options": ["Definitely", "Somewhat", "Prefer theory", "No preference"]
+      },
+      {
+        "id": "voc2",
+        "question": "Are you interested in working in hospitality or travel industry?",
+        "voiceText": "Are you interested in working in hospitality or travel industry?",
+        "options": ["Very interested", "Somewhat", "Not much", "No"]
+      },
+      {
+        "id": "voc3",
+        "question": "Would you like to work with your hands, fixing or building things?",
+        "voiceText": "Would you like to work with your hands, fixing or building things?",
+        "options": ["Yes", "Sometimes", "Rarely", "No"]
+      },
+      {
+        "id": "voc4",
+        "question": "Are you interested in healthcare support roles like nursing or therapy?",
+        "voiceText": "Are you interested in healthcare support roles like nursing or therapy?",
+        "options": ["Very interested", "Somewhat", "Not much", "No"]
+      },
+      {
+        "id": "voc5",
+        "question": "Do you want to start working quickly after a short training program?",
+        "voiceText": "Do you want to start working quickly after a short training program?",
+        "options": ["Yes", "Maybe", "Prefer longer study", "No preference"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "courses": {
+    "science": [
+      {
+        "id": "btech",
+        "name": "B.Tech / B.E. (Engineering)",
+        "description": "Four-year undergraduate program in various engineering disciplines like Computer Science, Mechanical, Civil, Electronics, etc.",
+        "comparison": "Unlike B.Sc., B.Tech focuses on practical application and building things rather than pure science research.",
+        "duration": "4 years",
+        "fees": "₹50,000 - ₹4,00,000 per year",
+        "careers": ["Software Engineer", "Civil Engineer", "Mechanical Engineer", "Data Scientist"]
+      },
+      {
+        "id": "mbbs",
+        "name": "MBBS (Medicine)",
+        "description": "Five and a half year program to become a doctor, including one year of internship.",
+        "comparison": "MBBS is for becoming a practicing doctor, while BDS is for dentistry and B.Pharm is for pharmacy.",
+        "duration": "5.5 years",
+        "fees": "₹20,000 - ₹25,00,000 per year",
+        "careers": ["Doctor", "Surgeon", "Medical Researcher", "Hospital Administrator"]
+      },
+      {
+        "id": "bsc",
+        "name": "B.Sc. (Science)",
+        "description": "Three-year undergraduate degree in pure sciences like Physics, Chemistry, Mathematics, Biology, etc.",
+        "comparison": "B.Sc. focuses on theoretical knowledge and research, while B.Tech emphasizes engineering applications.",
+        "duration": "3 years",
+        "fees": "₹15,000 - ₹1,00,000 per year",
+        "careers": ["Scientist", "Research Analyst", "Lab Technician", "Teacher"]
+      },
+      {
+        "id": "bpharm",
+        "name": "B.Pharm (Pharmacy)",
+        "description": "Four-year program focused on pharmaceutical sciences, drug development, and healthcare.",
+        "comparison": "B.Pharm is about medicines and drugs, different from MBBS which is about treating patients directly.",
+        "duration": "4 years",
+        "fees": "₹50,000 - ₹2,00,000 per year",
+        "careers": ["Pharmacist", "Drug Inspector", "Medical Representative", "Research Scientist"]
+      },
+      {
+        "id": "bca",
+        "name": "BCA (Computer Applications)",
+        "description": "Three-year undergraduate program focused on computer programming, software development, and IT.",
+        "comparison": "BCA is shorter than B.Tech CS but focuses specifically on software and applications, not hardware.",
+        "duration": "3 years",
+        "fees": "₹30,000 - ₹1,50,000 per year",
+        "careers": ["Software Developer", "Web Developer", "System Analyst", "IT Consultant"]
+      }
+    ],
+    "business": [
+      {
+        "id": "bcom",
+        "name": "B.Com (Commerce)",
+        "description": "Three-year undergraduate degree covering accounting, finance, taxation, and business fundamentals.",
+        "comparison": "B.Com is more focused on accounting and finance, while BBA covers broader management skills.",
+        "duration": "3 years",
+        "fees": "₹10,000 - ₹1,00,000 per year",
+        "careers": ["Accountant", "Tax Consultant", "Auditor", "Financial Analyst"]
+      },
+      {
+        "id": "bba",
+        "name": "BBA (Business Administration)",
+        "description": "Three-year program covering management principles, marketing, HR, and business operations.",
+        "comparison": "BBA provides broader management education, while B.Com is more specialized in accounts and finance.",
+        "duration": "3 years",
+        "fees": "₹50,000 - ₹3,00,000 per year",
+        "careers": ["Business Manager", "HR Executive", "Marketing Manager", "Entrepreneur"]
+      },
+      {
+        "id": "ca",
+        "name": "CA (Chartered Accountancy)",
+        "description": "Professional course in accounting, auditing, and taxation conducted by ICAI.",
+        "comparison": "CA is a professional certification with higher earning potential than regular B.Com graduates.",
+        "duration": "3-5 years",
+        "fees": "₹1,00,000 - ₹3,00,000 total",
+        "careers": ["Chartered Accountant", "CFO", "Financial Controller", "Tax Advisor"]
+      },
+      {
+        "id": "bba-llb",
+        "name": "BBA LLB (Integrated Law)",
+        "description": "Five-year integrated program combining business administration with law degree.",
+        "comparison": "Combines business knowledge with legal expertise, unlike standalone BBA or LLB programs.",
+        "duration": "5 years",
+        "fees": "₹1,00,000 - ₹5,00,000 per year",
+        "careers": ["Corporate Lawyer", "Legal Advisor", "Company Secretary", "Business Consultant"]
+      },
+      {
+        "id": "economics",
+        "name": "B.A. Economics (Hons)",
+        "description": "Three-year program studying economic theories, policies, and market analysis.",
+        "comparison": "Focuses on economic theory and policy analysis, while B.Com is more practical accounting-focused.",
+        "duration": "3 years",
+        "fees": "₹20,000 - ₹2,00,000 per year",
+        "careers": ["Economist", "Policy Analyst", "Research Analyst", "Banking Professional"]
+      }
+    ],
+    "arts": [
+      {
+        "id": "ba",
+        "name": "B.A. (Arts)",
+        "description": "Three-year undergraduate program in humanities subjects like History, Political Science, Sociology, etc.",
+        "comparison": "B.A. offers flexibility across humanities subjects, while specialized degrees focus on one field.",
+        "duration": "3 years",
+        "fees": "₹10,000 - ₹50,000 per year",
+        "careers": ["Teacher", "Content Writer", "Journalist", "Social Worker"]
+      },
+      {
+        "id": "ba-english",
+        "name": "B.A. English (Hons)",
+        "description": "Three-year program focused on English literature, language, and communication skills.",
+        "comparison": "More specialized in language and literature compared to general B.A. programs.",
+        "duration": "3 years",
+        "fees": "₹15,000 - ₹1,00,000 per year",
+        "careers": ["Content Writer", "Editor", "Teacher", "Translator"]
+      },
+      {
+        "id": "ba-psychology",
+        "name": "B.A. Psychology",
+        "description": "Three-year program studying human behavior, mental processes, and therapeutic techniques.",
+        "comparison": "Focuses on understanding human mind, unlike sociology which studies society as a whole.",
+        "duration": "3 years",
+        "fees": "₹20,000 - ₹1,50,000 per year",
+        "careers": ["Counselor", "HR Professional", "Clinical Psychologist", "Researcher"]
+      },
+      {
+        "id": "ba-history",
+        "name": "B.A. History",
+        "description": "Three-year program studying historical events, civilizations, and their impact on modern society.",
+        "comparison": "Focuses on past events and analysis, good for civil services and museum work.",
+        "duration": "3 years",
+        "fees": "₹10,000 - ₹50,000 per year",
+        "careers": ["Historian", "Archaeologist", "Museum Curator", "Civil Servant"]
+      },
+      {
+        "id": "languages",
+        "name": "B.A. Foreign Languages",
+        "description": "Three-year program learning foreign languages like French, German, Spanish, Japanese, etc.",
+        "comparison": "Provides specialized language skills for international careers unlike general humanities.",
+        "duration": "3 years",
+        "fees": "₹30,000 - ₹2,00,000 per year",
+        "careers": ["Translator", "Interpreter", "Foreign Service", "Tourism Professional"]
+      }
+    ],
+    "design": [
+      {
+        "id": "bdes",
+        "name": "B.Des (Design)",
+        "description": "Four-year undergraduate program in various design disciplines like product, fashion, or interior design.",
+        "comparison": "B.Des is more comprehensive than diploma courses and recognized for professional design careers.",
+        "duration": "4 years",
+        "fees": "₹2,00,000 - ₹6,00,000 per year",
+        "careers": ["Product Designer", "Fashion Designer", "Interior Designer", "UX Designer"]
+      },
+      {
+        "id": "bfa",
+        "name": "BFA (Fine Arts)",
+        "description": "Four-year program in painting, sculpture, applied arts, and visual arts.",
+        "comparison": "BFA focuses on traditional fine arts, while B.Des is more industry and product-oriented.",
+        "duration": "4 years",
+        "fees": "₹50,000 - ₹3,00,000 per year",
+        "careers": ["Artist", "Art Director", "Illustrator", "Art Teacher"]
+      },
+      {
+        "id": "bjmc",
+        "name": "BJMC (Journalism & Mass Communication)",
+        "description": "Three-year program covering journalism, advertising, public relations, and media production.",
+        "comparison": "Focused on media and communication, unlike B.A. which covers broader humanities.",
+        "duration": "3 years",
+        "fees": "₹50,000 - ₹3,00,000 per year",
+        "careers": ["Journalist", "News Anchor", "PR Executive", "Content Producer"]
+      },
+      {
+        "id": "animation",
+        "name": "B.Sc. Animation & VFX",
+        "description": "Three-year program in 2D/3D animation, visual effects, and game design.",
+        "comparison": "Technical creative field combining art with technology, unlike pure fine arts programs.",
+        "duration": "3 years",
+        "fees": "₹1,00,000 - ₹4,00,000 per year",
+        "careers": ["Animator", "VFX Artist", "Game Designer", "Motion Graphics Artist"]
+      },
+      {
+        "id": "film",
+        "name": "B.Sc. Film Making",
+        "description": "Three-year program covering direction, cinematography, editing, and film production.",
+        "comparison": "Hands-on filmmaking skills, different from BJMC which covers broader media theory.",
+        "duration": "3 years",
+        "fees": "₹2,00,000 - ₹8,00,000 per year",
+        "careers": ["Film Director", "Cinematographer", "Editor", "Producer"]
+      }
+    ],
+    "law": [
+      {
+        "id": "ballb",
+        "name": "BA LLB (Integrated Law)",
+        "description": "Five-year integrated program combining arts with law degree for comprehensive legal education.",
+        "comparison": "Integrated program saves time compared to doing BA and LLB separately.",
+        "duration": "5 years",
+        "fees": "₹50,000 - ₹5,00,000 per year",
+        "careers": ["Advocate", "Legal Advisor", "Judge", "Legal Researcher"]
+      },
+      {
+        "id": "llb",
+        "name": "LLB (Law)",
+        "description": "Three-year law degree for graduates who want to become legal professionals.",
+        "comparison": "Shorter than integrated law but requires prior graduation in any field.",
+        "duration": "3 years",
+        "fees": "₹30,000 - ₹3,00,000 per year",
+        "careers": ["Advocate", "Corporate Lawyer", "Public Prosecutor", "Legal Consultant"]
+      },
+      {
+        "id": "upsc",
+        "name": "UPSC Preparation (Civil Services)",
+        "description": "Preparation for India's premier civil service examination for administrative roles.",
+        "comparison": "Not a degree but a career path requiring graduation and dedicated preparation.",
+        "duration": "1-3 years preparation",
+        "fees": "₹50,000 - ₹2,00,000 for coaching",
+        "careers": ["IAS Officer", "IPS Officer", "IFS Officer", "IRS Officer"]
+      },
+      {
+        "id": "public-admin",
+        "name": "B.A. Public Administration",
+        "description": "Three-year program studying government functioning, policies, and administration.",
+        "comparison": "Specifically designed for those interested in government jobs and civil services.",
+        "duration": "3 years",
+        "fees": "₹15,000 - ₹75,000 per year",
+        "careers": ["Administrative Officer", "Policy Analyst", "Government Employee", "NGO Manager"]
+      }
+    ],
+    "vocational": [
+      {
+        "id": "hotel-mgmt",
+        "name": "B.Sc. Hotel Management",
+        "description": "Three-year program covering hospitality, hotel operations, food service, and tourism.",
+        "comparison": "Degree program with better prospects than diploma courses in hospitality.",
+        "duration": "3 years",
+        "fees": "₹50,000 - ₹3,00,000 per year",
+        "careers": ["Hotel Manager", "Chef", "Event Manager", "Tourism Officer"]
+      },
+      {
+        "id": "nursing",
+        "name": "B.Sc. Nursing",
+        "description": "Four-year program in nursing science and healthcare for becoming a registered nurse.",
+        "comparison": "Degree nursing has better career growth than GNM diploma nursing.",
+        "duration": "4 years",
+        "fees": "₹50,000 - ₹2,00,000 per year",
+        "careers": ["Registered Nurse", "Nursing Supervisor", "Healthcare Manager", "Clinical Instructor"]
+      },
+      {
+        "id": "aviation",
+        "name": "Aviation Management / Cabin Crew",
+        "description": "Short-term to diploma courses for airline and airport jobs.",
+        "comparison": "Quick entry into aviation industry without lengthy degree programs.",
+        "duration": "6 months - 2 years",
+        "fees": "₹1,00,000 - ₹5,00,000 total",
+        "careers": ["Cabin Crew", "Ground Staff", "Airport Manager", "Flight Dispatcher"]
+      },
+      {
+        "id": "iti",
+        "name": "ITI (Industrial Training)",
+        "description": "Certificate courses in technical trades like electrical, mechanical, plumbing, etc.",
+        "comparison": "Practical skill-based training for immediate employment in technical fields.",
+        "duration": "1-2 years",
+        "fees": "₹5,000 - ₹50,000 total",
+        "careers": ["Electrician", "Mechanic", "Welder", "Technician"]
+      },
+      {
+        "id": "paramedical",
+        "name": "Paramedical Courses",
+        "description": "Diploma and degree programs in medical lab technology, radiology, physiotherapy, etc.",
+        "comparison": "Healthcare support roles with shorter training than MBBS or nursing degrees.",
+        "duration": "2-3 years",
+        "fees": "₹30,000 - ₹1,50,000 per year",
+        "careers": ["Lab Technician", "Radiographer", "Physiotherapist", "OT Technician"]
+      }
+    ]
+  },
+  "exams": {
+    "science": [
+      {
+        "id": "jee-main",
+        "name": "JEE Main",
+        "description": "National level entrance exam for admission to NITs, IIITs, and other engineering colleges.",
+        "importance": "Gateway to top engineering colleges in India. Required for JEE Advanced eligibility.",
+        "dates": "January and April sessions",
+        "fees": "₹650 - ₹1300"
+      },
+      {
+        "id": "jee-advanced",
+        "name": "JEE Advanced",
+        "description": "Entrance exam for admission to IITs, India's premier engineering institutes.",
+        "importance": "Only way to get into IITs. Requires clearing JEE Main cutoff first.",
+        "dates": "May-June",
+        "fees": "₹2800 - ₹5600"
+      },
+      {
+        "id": "neet",
+        "name": "NEET UG",
+        "description": "National entrance exam for MBBS, BDS, BAMS, and other medical courses.",
+        "importance": "Single entrance exam for all medical colleges in India including AIIMS.",
+        "dates": "May",
+        "fees": "₹1600 - ₹1700"
+      },
+      {
+        "id": "bitsat",
+        "name": "BITSAT",
+        "description": "Entrance exam for BITS Pilani and its campuses.",
+        "importance": "One of the best private engineering institutes with excellent placements.",
+        "dates": "May-June",
+        "fees": "₹3400"
+      }
+    ],
+    "business": [
+      {
+        "id": "cuet",
+        "name": "CUET UG",
+        "description": "Common University Entrance Test for admission to central universities.",
+        "importance": "Single exam for admission to 40+ central universities including DU, JNU, BHU.",
+        "dates": "May-June",
+        "fees": "₹650 - ₹1000"
+      },
+      {
+        "id": "ipmat",
+        "name": "IPMAT",
+        "description": "Integrated Program in Management Aptitude Test for IIM Indore and Rohtak.",
+        "importance": "Direct entry to IIMs after 12th through 5-year integrated program.",
+        "dates": "May",
+        "fees": "₹4130"
+      },
+      {
+        "id": "set",
+        "name": "SET (Symbiosis Entrance Test)",
+        "description": "Entrance exam for Symbiosis International University programs.",
+        "importance": "Required for admission to all Symbiosis colleges for BBA, B.Com, etc.",
+        "dates": "May",
+        "fees": "₹2000 - ₹2500"
+      },
+      {
+        "id": "ca-foundation",
+        "name": "CA Foundation",
+        "description": "Entry level exam for Chartered Accountancy course conducted by ICAI.",
+        "importance": "First step to becoming a Chartered Accountant.",
+        "dates": "May and November",
+        "fees": "₹11,000 registration"
+      }
+    ],
+    "arts": [
+      {
+        "id": "cuet-arts",
+        "name": "CUET UG",
+        "description": "Common entrance test for arts and humanities programs at central universities.",
+        "importance": "Gateway to top universities like DU, JNU, BHU for BA programs.",
+        "dates": "May-June",
+        "fees": "₹650 - ₹1000"
+      },
+      {
+        "id": "duet",
+        "name": "DU JAT",
+        "description": "Delhi University Joint Admission Test for BMS, BBA, and B.Com (Hons) programs.",
+        "importance": "Required for management programs at Delhi University.",
+        "dates": "June-July",
+        "fees": "₹1000 - ₹1500"
+      }
+    ],
+    "design": [
+      {
+        "id": "nid",
+        "name": "NID DAT",
+        "description": "Design Aptitude Test for National Institute of Design admissions.",
+        "importance": "NID is India's premier design institute with excellent industry connections.",
+        "dates": "December-January",
+        "fees": "₹3000 - ₹4000"
+      },
+      {
+        "id": "nift",
+        "name": "NIFT Entrance",
+        "description": "Entrance exam for National Institute of Fashion Technology programs.",
+        "importance": "Top institute for fashion and textile design in India.",
+        "dates": "February",
+        "fees": "₹2500 - ₹3500"
+      },
+      {
+        "id": "uceed",
+        "name": "UCEED",
+        "description": "Undergraduate Common Entrance Exam for Design at IITs.",
+        "importance": "Entry to B.Des programs at IIT Bombay, Delhi, Guwahati, and Hyderabad.",
+        "dates": "January",
+        "fees": "₹3000 - ₹4000"
+      }
+    ],
+    "law": [
+      {
+        "id": "clat",
+        "name": "CLAT",
+        "description": "Common Law Admission Test for National Law Universities.",
+        "importance": "Gateway to 22 National Law Universities across India.",
+        "dates": "December",
+        "fees": "₹4000 - ₹4500"
+      },
+      {
+        "id": "ailet",
+        "name": "AILET",
+        "description": "All India Law Entrance Test for National Law University Delhi.",
+        "importance": "Separate exam for NLU Delhi, one of the top law schools.",
+        "dates": "December",
+        "fees": "₹3500"
+      },
+      {
+        "id": "lsat",
+        "name": "LSAT India",
+        "description": "Law School Admission Test accepted by many private law colleges.",
+        "importance": "Internationally recognized test for law school admissions.",
+        "dates": "January and May",
+        "fees": "₹3999"
+      }
+    ],
+    "vocational": [
+      {
+        "id": "nchmct",
+        "name": "NCHMCT JEE",
+        "description": "Joint Entrance Examination for Hotel Management colleges.",
+        "importance": "Required for IHMs and other government hotel management institutes.",
+        "dates": "April-May",
+        "fees": "₹1000 - ₹1200"
+      },
+      {
+        "id": "neet-nursing",
+        "name": "NEET UG (for B.Sc Nursing)",
+        "description": "Some states use NEET scores for B.Sc Nursing admissions.",
+        "importance": "Alternative pathway to nursing in government colleges.",
+        "dates": "May",
+        "fees": "₹1600 - ₹1700"
+      },
+      {
+        "id": "iti-entrance",
+        "name": "State ITI Entrance",
+        "description": "State-level entrance tests for Industrial Training Institutes.",
+        "importance": "Required for admission to government ITIs with lower fees.",
+        "dates": "June-July (varies by state)",
+        "fees": "₹100 - ₹500"
+      }
+    ]
+  }
+}

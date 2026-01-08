@@ -1,0 +1,46 @@
+{
+  "areas": [
+    {
+      "id": "science",
+      "name": "Science & Technology",
+      "description": "Explore fields like engineering, medicine, research, and technology innovation.",
+      "voiceIntro": "Science and Technology covers engineering, medicine, research, and innovation.",
+      "icon": "flask"
+    },
+    {
+      "id": "business",
+      "name": "Business & Commerce",
+      "description": "Learn about management, finance, accounting, entrepreneurship, and economics.",
+      "voiceIntro": "Business and Commerce includes management, finance, accounting, and entrepreneurship.",
+      "icon": "briefcase"
+    },
+    {
+      "id": "arts",
+      "name": "Arts & Humanities",
+      "description": "Discover literature, history, languages, philosophy, and creative arts.",
+      "voiceIntro": "Arts and Humanities covers literature, history, languages, and creative fields.",
+      "icon": "palette"
+    },
+    {
+      "id": "design",
+      "name": "Design & Media",
+      "description": "Explore graphic design, animation, film, journalism, and digital media.",
+      "voiceIntro": "Design and Media includes graphic design, animation, film, and journalism.",
+      "icon": "pen-tool"
+    },
+    {
+      "id": "law",
+      "name": "Law & Public Service",
+      "description": "Learn about legal studies, civil services, public administration, and governance.",
+      "voiceIntro": "Law and Public Service covers legal studies, civil services, and governance.",
+      "icon": "scale"
+    },
+    {
+      "id": "vocational",
+      "name": "Vocational & Skill-Based",
+      "description": "Practical training in hospitality, aviation, healthcare, and technical trades.",
+      "voiceIntro": "Vocational training includes hospitality, aviation, healthcare, and technical skills.",
+      "icon": "wrench"
+    }
+  ]
+}

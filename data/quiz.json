@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "I enjoy solving mathematical problems and puzzles",
+      "audio_key": "q1_math_puzzles",
+      "categories": {
+        "agree": "Science",
+        "disagree": "Arts"
+      }
+    },
+    {
+      "id": 2,
+      "question": "I am interested in learning about business and making money",
+      "audio_key": "q2_business_money",
+      "categories": {
+        "agree": "Commerce",
+        "disagree": "Arts"
+      }
+    },
+    {
+      "id": 3,
+      "question": "I like helping people and understanding their feelings",
+      "audio_key": "q3_helping_people",
+      "categories": {
+        "agree": "Arts",
+        "disagree": "Science"
+      }
+    },
+    {
+      "id": 4,
+      "question": "I enjoy working with computers and technology",
+      "audio_key": "q4_computers_tech",
+      "categories": {
+        "agree": "Science",
+        "disagree": "Vocational"
+      }
+    },
+    {
+      "id": 5,
+      "question": "I am interested in managing money and investments",
+      "audio_key": "q5_money_investments",
+      "categories": {
+        "agree": "Commerce",
+        "disagree": "Arts"
+      }
+    },
+    {
+      "id": 6,
+      "question": "I enjoy creative activities like art, music, or writing",
+      "audio_key": "q6_creative_activities",
+      "categories": {
+        "agree": "Arts",
+        "disagree": "Commerce"
+      }
+    },
+    {
+      "id": 7,
+      "question": "I am curious about how the human body works",
+      "audio_key": "q7_human_body",
+      "categories": {
+        "agree": "Science",
+        "disagree": "Commerce"
+      }
+    },
+    {
+      "id": 8,
+      "question": "I prefer learning by doing practical work with my hands",
+      "audio_key": "q8_practical_work",
+      "categories": {
+        "agree": "Vocational",
+        "disagree": "Commerce"
+      }
+    },
+    {
+      "id": 9,
+      "question": "I enjoy reading about current events and social issues",
+      "audio_key": "q9_current_events",
+      "categories": {
+        "agree": "Arts",
+        "disagree": "Science"
+      }
+    },
+    {
+      "id": 10,
+      "question": "I like experiments and finding out why things happen",
+      "audio_key": "q10_experiments",
+      "categories": {
+        "agree": "Science",
+        "disagree": "Commerce"
+      }
+    }
+  ]
+}

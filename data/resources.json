@@ -1,0 +1,133 @@
+{
+  "exams": [
+    {
+      "id": "jee-main",
+      "name": "JEE Main",
+      "description": "National level engineering entrance exam for IITs, NITs, and other top colleges",
+      "forStreams": ["Science"],
+      "timing": "January & April every year",
+      "website": "https://jeemain.nta.nic.in"
+    },
+    {
+      "id": "neet",
+      "name": "NEET",
+      "description": "National eligibility entrance test for medical and dental colleges across India",
+      "forStreams": ["Science"],
+      "timing": "May every year",
+      "website": "https://neet.nta.nic.in"
+    },
+    {
+      "id": "cuet",
+      "name": "CUET",
+      "description": "Common University Entrance Test for central universities",
+      "forStreams": ["Science", "Commerce", "Arts"],
+      "timing": "May-June every year",
+      "website": "https://cuet.samarth.ac.in"
+    },
+    {
+      "id": "clat",
+      "name": "CLAT",
+      "description": "Common Law Admission Test for National Law Universities",
+      "forStreams": ["Arts", "Commerce"],
+      "timing": "December every year",
+      "website": "https://consortiumofnlus.ac.in"
+    },
+    {
+      "id": "nid",
+      "name": "NID Entrance",
+      "description": "Design aptitude test for National Institute of Design",
+      "forStreams": ["Arts", "Vocational"],
+      "timing": "January every year",
+      "website": "https://admissions.nid.edu"
+    },
+    {
+      "id": "cat",
+      "name": "CAT",
+      "description": "Common Admission Test for MBA programs at IIMs",
+      "forStreams": ["Commerce"],
+      "timing": "November every year",
+      "website": "https://iimcat.ac.in"
+    }
+  ],
+  "scholarships": [
+    {
+      "id": "pm-scholarship",
+      "name": "PM Scholarship Scheme",
+      "description": "Central government scholarship for dependent children of ex-servicemen",
+      "amount": "₹2,000 - ₹3,000 per month",
+      "eligibility": "Minimum 60% marks in 12th"
+    },
+    {
+      "id": "national-merit",
+      "name": "National Merit Scholarship",
+      "description": "Merit-based scholarship by Ministry of Education",
+      "amount": "₹12,000 per year",
+      "eligibility": "Top performers in Class 12 board exams"
+    },
+    {
+      "id": "inspire",
+      "name": "INSPIRE Scholarship",
+      "description": "For science students pursuing BSc, BS, or integrated courses",
+      "amount": "₹80,000 per year",
+      "eligibility": "Top 1% in Class 12 or JEE/NEET qualified"
+    },
+    {
+      "id": "minority-scholarship",
+      "name": "Central Sector Scholarship for Minorities",
+      "description": "For students from minority communities",
+      "amount": "₹20,000 - ₹25,000 per year",
+      "eligibility": "Family income less than ₹2.5 Lakhs"
+    },
+    {
+      "id": "pragati",
+      "name": "Pragati Scholarship",
+      "description": "For girl students in technical education",
+      "amount": "₹50,000 per year",
+      "eligibility": "Girls admitted to AICTE approved institutions"
+    }
+  ],
+  "colleges": [
+    {
+      "id": "iit",
+      "name": "Indian Institutes of Technology (IITs)",
+      "type": "Engineering",
+      "description": "Premier engineering institutions with global recognition",
+      "locations": "Delhi, Bombay, Madras, Kanpur, Kharagpur, and more"
+    },
+    {
+      "id": "aiims",
+      "name": "All India Institute of Medical Sciences (AIIMS)",
+      "type": "Medical",
+      "description": "Top medical college with affordable education",
+      "locations": "Delhi, Jodhpur, Bhopal, Rishikesh, and more"
+    },
+    {
+      "id": "nlu",
+      "name": "National Law Universities (NLUs)",
+      "type": "Law",
+      "description": "Premier law schools for legal education",
+      "locations": "Bangalore, Delhi, Hyderabad, and more"
+    },
+    {
+      "id": "iim",
+      "name": "Indian Institutes of Management (IIMs)",
+      "type": "Management",
+      "description": "Best business schools in India",
+      "locations": "Ahmedabad, Bangalore, Calcutta, Lucknow"
+    },
+    {
+      "id": "nid",
+      "name": "National Institute of Design (NID)",
+      "type": "Design",
+      "description": "Premier design institution",
+      "locations": "Ahmedabad, Gandhinagar, Bangalore"
+    },
+    {
+      "id": "du",
+      "name": "Delhi University (DU)",
+      "type": "General",
+      "description": "Prestigious university for arts, commerce, and science",
+      "locations": "Delhi"
+    }
+  ]
+}
